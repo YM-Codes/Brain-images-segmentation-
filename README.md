@@ -1,1 +1,1 @@
-# Brain-images-segmentation ( image formating and Visualization)
+# Brain-image-segmentation
